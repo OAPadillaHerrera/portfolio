@@ -5,7 +5,7 @@ Bienvenido a mi portafolio. Aquí puedes ver algunos de los proyectos en los que
 
 ---
 
-## 📌 Proyectos Destacados  
+## 📌 Proyectos Destacados:  
 
 ### 🛍️ **Aplicación Web para un E-commerce**  
 📆 **Fecha:** Nov. 2024 - Ene. 2025  
