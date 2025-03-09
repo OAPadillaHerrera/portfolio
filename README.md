@@ -7,7 +7,7 @@ Bienvenido a mi portafolio. Aquí puedes ver algunos de los proyectos en los que
 
 ## 📌 Proyectos Destacados:  
 
-### 🛍️ **Aplicación Web para un E-commerce**  
+### 🛍️ **Aplicación Web para un E-commerce.**  
 📆 **Fecha:** Nov. 2024 - Ene. 2025  
 
 🔹 **Descripción:** Desarrollo de una aplicación web Full Stack para la gestión de compras en línea. Los usuarios pueden registrarse, comprar productos mediante un carrito y generar órdenes de compra. Un administrador puede gestionar stock, actualizar productos e imágenes en la nube.  
