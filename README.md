@@ -1,5 +1,5 @@
 
-# 🚀 Portafolio de Óscar Padilla  
+# 🚀 Portafolio de Óscar Padilla
 
 Bienvenido a mi portafolio. Aquí puedes ver algunos de los proyectos en los que he trabajado. Cada uno de ellos representa un desafío técnico donde he aplicado mis habilidades en desarrollo Full Stack/Backend.
 
