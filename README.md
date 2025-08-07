@@ -72,7 +72,7 @@ Ensured code stability and functionality with unit tests written in Jasmine.
 
 🔹 Main Achievements:
 
-Fully functional and multilingual personal presentation web app.
+Fully functional and bilingual personal presentation web app.
 
 Real-time interactivity using advanced DOM manipulation.
 
