@@ -5,6 +5,8 @@ Welcome to my portfolio. Here you can see some of the projects I’ve worked on.
 
 ---
 
+**Featured Projects**
+
 🛒 **Design and Implementation of the Backend for an E-commerce Web Application**
 📆 Date: Nov 2024 – Jan 2025
 🏢 Associated with: Henry
@@ -47,11 +49,11 @@ RESTful API development, Secure backend architecture, Relational database design
 🔗 **Repository:** [GitHub - E-commerce App](https://github.com/OAPadillaHerrera/ecommerce-app)
 
 
-🎯 Design and Implementation of an Interactive Personal Introduction Web Application
+🎯 **Design and Implementation of an Interactive Personal Introduction Web Application**
 📆 Date: Jul 2024 – Aug 2024
 🏢 Associated with: Henry
 
-🔹 Description:
+🔹 **Description:**
 Implemented an interactive web application for personal introduction and professional self-presentation. The app supports real-time bilingual switching, dynamic content loading, and smooth navigation without page reloads. It was built using object-oriented programming in JavaScript and modern frontend principles.
 
 🔹 Key Tasks:
@@ -84,8 +86,8 @@ HTML, CSS, JavaScript, Jasmine, Git, GitHub, localStorage
 🔹 Key Skills:
 Responsive web design, Object-oriented JavaScript, DOM manipulation, Version control, Independent problem-solving
 
-🔗 **Repository:** [GitHub - E-commerce App](https://github.com/OAPadillaHerrera/ecommerce-app)
+🔗 **Repository:** [GitHub - Personal Introduction App](https://github.com/OAPadillaHerrera/presentacion-personal-app)
 
+🔗 **Live Project:** [https://oapadillaherrera.github.io/presentacion-personal-app/](https://oapadillaherrera.github.io/presentacion-personal-app/)
 
-🔗 Live Project: Personal Introduction App
 
