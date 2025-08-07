@@ -1,46 +1,91 @@
 
-# 🚀 Portafolio de Óscar Padilla
+🚀 **Óscar Padilla's Portfolio**
 
-Bienvenido a mi portafolio. Aquí puedes ver algunos de los proyectos en los que he trabajado. Cada uno de ellos representa un desafío técnico donde he aplicado mis habilidades en desarrollo Full Stack/Backend.
-
----
-
-## 📌 Proyectos Destacados:  
-
-### 🛍️ **Aplicación Web para un E-commerce**  
-📆 **Fecha:** Nov. 2024 - Ene. 2025  
-
-🔹 **Descripción:** Desarrollo de una aplicación web Full Stack para la gestión de compras en línea. Los usuarios pueden registrarse, comprar productos mediante un carrito y generar órdenes de compra. Un administrador puede gestionar stock, actualizar productos e imágenes en la nube.  
-
-🔹 **Tareas principales:**  
-
-   - Configuración del entorno con NestJS, PostgreSQL y TypeORM.  
-   - Modelado de base de datos y creación de relaciones entre entidades.  
-   - Desarrollo del backend con endpoints RESTful, autenticación JWT y control de acceso basado en roles.  
-   - Integración de Cloudinary para gestión de imágenes.  
-   - Pruebas unitarias con Jest y validación de datos con Class-Validator.
-   - 
-🔹 **Tecnologías:** NestJS, Node.js, TypeORM, PostgreSQL, Cloudinary, JWT, Jest, Git.  
-🔗 **Repositorio:** [GitHub - Ecommerce App](https://github.com/OAPadillaHerrera/ecommerce-app)  
+Welcome to my portfolio. Here you can see some of the projects I’ve worked on. Each one represents a technical challenge where I’ve applied my skills in Full Stack/Backend development.
 
 ---
 
-### 🏥 **Aplicación Web para Gestión de Turnos Médicos**  
-📆 **Fecha:** Sept. 2024 - Nov. 2024  
+🛒 **Design and Implementation of the Backend for an E-commerce Web Application**
+📆 Date: Nov 2024 – Jan 2025
+🏢 Associated with: Henry
 
-🔹 **Descripción:** Desarrollo de una aplicación web Full Stack que permite a los usuarios registrarse, iniciar sesión, agendar y cancelar turnos según las políticas del establecimiento.  
+🔹 Description:
+Designed and developed the backend infrastructure for an e-commerce web application. The system enables secure user authentication, product and inventory management, order processing, and cloud-based image handling. The project focused exclusively on building scalable and secure backend logic and APIs (no frontend included).
 
-🔹 **Tareas principales:**  
+🔹 Key Tasks:
 
-   - Implementación del backend con Node.js, Express.js y TypeORM.  
-   - Creación de endpoints RESTful para la gestión de turnos médicos.  
-   - Desarrollo del frontend con React.js y Vite, incluyendo autenticación y protección de rutas.  
-   - Pruebas de seguridad y validación de datos con Jasmine y Thunder Client.
-   -   
-🔹 **Tecnologías:** TypeScript, Node.js, Express.js, PostgreSQL, React.js, Axios, Jest, Jasmine.  
-🔗 **Repositorio:** [GitHub - Turnos Médicos App](https://github.com/OAPadillaHerrera/turnos-medicos-app)  
+Initialized the backend with NestJS, PostgreSQL, and TypeORM.
 
----
+Modeled relational entities such as Users, Products, Orders, OrderDetails, and Categories.
+
+Developed RESTful endpoints for user registration, login, product handling, and order management.
+
+Implemented JWT-based authentication, role-based access control, and password encryption using Bcrypt.
+
+Integrated Cloudinary for secure cloud image handling.
+
+Applied Class-Validator for request validation and developed custom business logic including filtering and pagination.
+
+Created unit and integration tests with Jest to ensure reliability and maintainability.
+
+🔹 Main Achievements:
+
+Developed a modular and testable backend architecture.
+
+Enabled secure authentication and dynamic role management.
+
+Streamlined product workflows with filtering and cloud image integration.
+
+Embraced test-driven development for robust code quality.
+
+🔹 Technologies Used:
+NestJS, Node.js, TypeORM, PostgreSQL, JWT, Bcrypt, Cloudinary, Jest, Git, GitHub
+
+🔹 Key Skills:
+RESTful API development, Secure backend architecture, Relational database design, Automated testing, API validation
+
+🔗 **Repository:** [GitHub - E-commerce App](https://github.com/OAPadillaHerrera/ecommerce-app)
 
 
+🎯 Design and Implementation of an Interactive Personal Introduction Web Application
+📆 Date: Jul 2024 – Aug 2024
+🏢 Associated with: Henry
+
+🔹 Description:
+Implemented an interactive web application for personal introduction and professional self-presentation. The app supports real-time bilingual switching, dynamic content loading, and smooth navigation without page reloads. It was built using object-oriented programming in JavaScript and modern frontend principles.
+
+🔹 Key Tasks:
+
+Structured the project environment and managed version control with Git/GitHub.
+
+Designed a responsive and accessible UI using HTML and CSS.
+
+Developed dynamic sections such as About Me, Technologies, and a customizable activity list.
+
+Used JavaScript classes for state management and UI updates in real time.
+
+Built advanced form validation and handled DOM events efficiently.
+
+Ensured code stability and functionality with unit tests written in Jasmine.
+
+🔹 Main Achievements:
+
+Fully functional and multilingual personal presentation web app.
+
+Real-time interactivity using advanced DOM manipulation.
+
+Custom validation logic with regular expressions.
+
+High test coverage using Jasmine for long-term maintainability.
+
+🔹 Technologies Used:
+HTML, CSS, JavaScript, Jasmine, Git, GitHub, localStorage
+
+🔹 Key Skills:
+Responsive web design, Object-oriented JavaScript, DOM manipulation, Version control, Independent problem-solving
+
+🔗 **Repository:** [GitHub - E-commerce App](https://github.com/OAPadillaHerrera/ecommerce-app)
+
+
+🔗 Live Project: Personal Introduction App
 
